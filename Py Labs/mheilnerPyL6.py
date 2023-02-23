@@ -11,7 +11,8 @@ def main(number):
     else:
         print("False")
     return None
-    
+    # just for the sake of git lens
+    print(None)
     
     return None
 
